@@ -1,0 +1,3 @@
+/usr/local/lib/libtestproj.dylib
+/usr/local/include/testproj
+/usr/local/include/testproj_bit/testproj.hpp

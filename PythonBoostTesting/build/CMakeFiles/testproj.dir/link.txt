@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -I../testproj_bit -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -dynamiclib -Wl,-headerpad_max_install_names -o libtestproj.dylib -install_name @rpath/libtestproj.dylib CMakeFiles/testproj.dir/src/testproj.cpp.o

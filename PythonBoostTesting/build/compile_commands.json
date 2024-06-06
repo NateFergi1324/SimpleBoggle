@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dtestproj_EXPORTS -I/usr/local/include -I/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/cpp/../testproj_bits -I/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/cpp/include/testproj  -I../testproj_bit -g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fPIC -o CMakeFiles/testproj.dir/src/testproj.cpp.o -c /Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/cpp/src/testproj.cpp",
+  "file": "/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/cpp/src/testproj.cpp",
+  "output": "CMakeFiles/testproj.dir/src/testproj.cpp.o"
+}
+]
