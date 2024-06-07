@@ -1,6 +1,0 @@
-#ifndef TESTPROJ_LIBRARY_H
-#define TESTPROJ_LIBRARY_H
-
-#include "../include/testproj_bit/testproj.hpp"
-
-#endif

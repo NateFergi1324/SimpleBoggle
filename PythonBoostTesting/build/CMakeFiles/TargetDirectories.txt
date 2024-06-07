@@ -1,7 +1,0 @@
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build/CMakeFiles/testproj.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build/CMakeFiles/edit_cache.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build/CMakeFiles/rebuild_cache.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build/CMakeFiles/list_install_components.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build/CMakeFiles/install.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build/CMakeFiles/install/local.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/build/CMakeFiles/install/strip.dir

@@ -1,3 +1,0 @@
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/cpp/tests/build/CMakeFiles/test.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/cpp/tests/build/CMakeFiles/edit_cache.dir
-/Users/nathan/Documents/BoggleExperiment/PythonBoostTesting/cpp/tests/build/CMakeFiles/rebuild_cache.dir
